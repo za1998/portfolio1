@@ -91,7 +91,7 @@ const bigProjects = {
   subtitle: "Berikut adalah beberapa project pribadi yang saya kembangkan:",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
+      image: require("./assets/images/logopembuukuan.png"),
       projectName: "Aplikasi Web Pembukuan",
       projectDesc: "Aplikasi web untuk pembukuan mahasiswa dengan fitur login admin, input pemasukan dan pengeluaran, lihat history dan ekspor PDF.",
       footerLink: [
@@ -99,7 +99,7 @@ const bigProjects = {
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
+      image: require("./assets/images/logousmabsensi.png"),
       projectName: "Aplikasi Web Absensi",
       projectDesc: "Aplikasi web absensi mahasiswa dengan fitur login admin dan input kehadiran.",
       footerLink: [
